@@ -135,15 +135,6 @@ Q6: a=20, b=15, c=4 → Should be 67, PASS
 
 ---
 
-## Simple Tips
-
-- Use `console.log()` to debug and see what's happening
-- Test each problem with the example inputs first
-- Check that your answer matches the expected answer
-- All code is plain JavaScript, no libraries needed
-
----
-
 ## What I Learned
 
 - How to use loops and if statements
