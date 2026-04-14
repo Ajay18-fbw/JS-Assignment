@@ -95,21 +95,6 @@ Answer: 67, PASS
 Code: `q6.js`
 
 ---
-
-## How to Run the Code
-
-### Easy Way (Use HTML File)
-
-Just open `index.html` in your browser. It has buttons for all 6 problems. Click a button, enter the numbers, and see the answer.
-
-### Console Way
-
-1. Press F12 in browser
-2. Go to Console
-3. Copy code from any .js file
-4. Paste it in console
-5. Press Enter and enter numbers
-
 ---
 
 ## Files in This Project
